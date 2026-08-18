@@ -1,4 +1,5 @@
 Privacy Policy for BorneoMAPP
+
 Effective Date: August 18, 2026
 
 BorneoMAPP ("we", "our", or "us") operates the BorneoMAPP mobile application (the "App"). This page informs you of our policies regarding the collection, use, and disclosure of personal data when you use our App and the choices you have associated with that data.
