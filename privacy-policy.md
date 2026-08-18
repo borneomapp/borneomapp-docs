@@ -10,12 +10,15 @@ We are committed to protecting and respecting your privacy. By using the App, yo
 
 ## 1. Information Collection and Use
 
-While using our App, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you, as well as user-generator content to support regional dictionary and heritage documentation.
+While using our App, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you, as well as user-generated content to support regional dictionary and heritage documentation.
+
+### Guest Access
+You may access and use many of the App's features (such as browsing dictionary entries and heritage content) without creating an account or signing in. When using the App as a guest, we do not collect or store personal identifiers like your email address or profile name. Some features, such as contributing content or participating in community discussions, require you to sign in.
 
 ### Types of Data Collected:
-* **Account and Authentication Data:** When you register or sign in via email or third-party providers (such as Google Sign-In), we collect your email address, display name, and profile picture URL (if applicable) through Firebase Authentication to manage your user profile and access levels.
-* **User-Generated Content:** Any words, definitions, translations, community discussion posts, comments, heritage stories, traditional songs, or contributions you submit are stored securely in our database (Firebase Firestore) and associated with your account.
-* **Usage and Technical Data:** Our App integrates third-party services like Google AdMob for advertisements and Firebase diagnostics, which may automatically collect standard technical data such as device identifiers, IP addresses, and ad interaction metrics.
+* **Account and Authentication Data:** When you choose to register or sign in via email or third-party providers (such as Google Sign-In), we collect your email address, display name, and profile picture URL (if applicable) through Firebase Authentication to manage your user profile and access levels.
+* **User-Generated Content:** Any words, definitions, translations, community discussion posts, comments, heritage stories, traditional songs, or contributions you submit while signed in are stored securely in our database (Firebase Firestore) and associated with your account.
+* **Usage and Technical Data:** Our App integrates third-party services like Google AdMob for advertisements and Firebase diagnostics, which may automatically collect standard technical data such as device identifiers, IP addresses, and ad interaction metrics to improve App performance.
 
 ---
 
@@ -23,7 +26,7 @@ While using our App, we may ask you to provide us with certain personally identi
 
 BorneoMAPP uses the collected data for various purposes:
 * To provide, maintain, and improve our App’s dictionary and community features.
-* To manage your user account, authentication states, and role permissions (such as contributor or moderator status).
+* To manage your user account, authentication states, and role permissions (such as contributor or moderator status) when you choose to sign in.
 * To display relevant advertisements through Google AdMob.
 * To monitor the usage of the App and detect, prevent, or address technical issues.
 
